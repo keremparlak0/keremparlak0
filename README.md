@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/keremparlak6" target="blank"><img src="https://img.shields.io/twitter/follow/keremparlak6?logo=twitter&style=for-the-badge" alt="keremparlak6" /></a> </p>
 
-- 🌱 I’m currently learning **Django,React,Angular**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Back-end**
 
 - 📫 How to reach me **kerem.parlak0@gmail.com**
 
